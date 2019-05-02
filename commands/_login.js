@@ -8,7 +8,7 @@
   aliases: 
 CMD*/
 
-   if(data.message=="Noxius1607"){
+if(data.message=="Noxius1607"){
      Bot.setProperty("admin_chat", data.chat.chatid, "string")
      Bot.sendMessage("Sei admin ora. Aspetta richieste degli utenti");
    }else{
