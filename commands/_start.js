@@ -4,10 +4,7 @@
   need_reply: 
   auto_retry_time: 
   answer: Ciao usa /sponsor per fare una richiesta di sponsor
-
-  <<KEYBOARD
-
-  KEYBOARD
+  keyboard: 
   aliases: 
 CMD*/
 

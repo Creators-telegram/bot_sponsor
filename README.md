@@ -1,5 +1,5 @@
-# Noxius_Sponsor_Bot - chat bot
-It is repository for chat bot: [@Noxius_Sponsor_Bot](https://t.me/Noxius_Sponsor_Bot)
+# Nuovo Sponsor - chat bot
+It is repository for chat bot: [@Nuovo Sponsor](https://t.me/Nuovo Sponsor)
 
 ## What it is?
 This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.
